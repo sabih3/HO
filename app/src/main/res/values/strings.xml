@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Homes Order</string>
+    <string name="title_activity_screen_splash">ScreenSplash</string>
 </resources>
